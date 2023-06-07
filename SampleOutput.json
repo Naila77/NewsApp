@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "",
+            "title": "Watch: Donald Trump's attorney tells CNN he is 'right to be angry' over order in hush money case | CNN Politics",
+            "description": "Alina Habba, an attorney representing Donald Trump, discusses his anger over Judge Juan Mechan issuing a protective order restricting his speech.",
+            "url": "https://www.cnn.com/videos/politics/2023/05/24/trump-attorney-alina-habba-judge-order-sot-cnntm-vpx.cnn",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230524090346-alina-habba.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-05-24T13:41:59Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "George F. Will",
+            "title": "Ambivalent about abortion, the American middle begins to find its voice",
+            "description": "By overturning Roe v. Wade, the Supreme Court commenced the process of letting politics go about the business of accommodating differences.",
+            "url": "https://www.washingtonpost.com/opinions/2023/05/24/supreme-court-abortion-decision-beneficial-fallout/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KBXZCJ2GHJAILAVHHIVC7CSBQE.jpg&w=1440",
+            "publishedAt": "2023-05-24T11:00:33Z",
+            "content": "Comment on this story\r\nComment\r\nIn the year since the Supreme Court restored abortion policy to the status of a states political choice, the issue that for some 50 years poisoned political discourse … [+4607 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Mark Davis",
+            "title": "Newsweek",
+            "description": "Newsweek provides in-depth analysis, news and opinion about international issues, technology, business, culture and politics.",
+            "url": "https://www.newsweek.com/",
+            "urlToImage": "https://d.newsweek.com/en/full/2202468/special-presidential-envoy-climate-john-kerry.jpg",
+            "publishedAt": "2023-03-01T12:07:28.8517009Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-american-conservative",
+                "name": "The American Conservative"
+            },
+            "author": null,
+            "title": "Politics Archives - The American Conservative",
+            "description": null,
+            "url": "https://www.theamericanconservative.com/category/politics/",
+            "urlToImage": null,
+            "publishedAt": "2022-07-07T21:37:27.3936289Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-jerusalem-post",
+                "name": "The Jerusalem Post"
+            },
+            "author": null,
+            "title": "Congresswoman Nita Lowey: I am proud to stand with Israel",
+            "description": "Gantz: Security of Israel is above politics; PA: This is a crime.",
+            "url": "https://www.jpost.com/Arab-Israeli-Conflict/Gantz-Security-of-Israel-is-above-politics-Palestinians-This-is-a-crime-607595",
+            "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/448812",
+            "publishedAt": "2019-11-13T04:41:00Z",
+            "content": "US Ambassador David M. Friedman said the US stands “with our friend and ally Israel at this critical moment” on social media on Tuesday after roughly 170 rockets were fired on Israel from the Gaza St… [+6160 chars]"
+        }
+    ]
+}
