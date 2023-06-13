@@ -1,14 +1,11 @@
-import React, { Component } from "react";
-import PropTypes from "prop-types";
+import React from "react";
 import { Link } from "react-router-dom";
 
-export class Navbar extends Component {
-  static propTypes = {};
+const Navbar = () => {
 
-  render() {
     return (
       <div>
-        <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
+        <nav className="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
           <div className="container-fluid">
             <Link className="navbar-brand" to="/">
               News App
@@ -79,7 +76,7 @@ export class Navbar extends Component {
         </nav>
       </div>
     );
-  }
+  
 }
 
 export default Navbar;

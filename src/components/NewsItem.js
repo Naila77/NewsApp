@@ -1,13 +1,13 @@
-import React, { Component } from "react";
+import React from "react";
 
-export class NewsItem extends Component {
-  render() {
+const NewsItem = (props) =>{
+ 
     let { title, description, imageUrl, newsUrl, author, publishedAt, source } =
-      this.props;
+      props;
     return (
       <div className="my-3">
         <div className="card">
-          <span class="position-absolute top-0 translate-middle badge rounded-pill bg-success" style={{zIndex:'1', left:'92%'}}>
+          <span className="position-absolute top-0 translate-middle badge rounded-pill bg-success" style={{zIndex:'1', left:'92%'}}>
           
               {source ? source : "Unknown"}
             
@@ -24,8 +24,8 @@ export class NewsItem extends Component {
           <div className="card-body">
            
             <h5 className="card-title">{title}...</h5>
-            <p class="card-text">
-              <small class=" text-success">
+            <p className="card-text">
+              <small className=" text-success">
                  by {author} on {new Date(publishedAt).toGMTString()}
               </small>
             </p>
@@ -43,6 +43,6 @@ export class NewsItem extends Component {
       </div>
     );
   }
-}
+
 
 export default NewsItem;
